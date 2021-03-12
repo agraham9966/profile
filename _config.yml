@@ -1,7 +1,13 @@
 title: Alexander Graham # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Experienced Remote Sensing Scientist  
+  A little about me: <br>
+  I graduated with my Master of Science in Forestry back in 2016, where I focused to UAV remote sensing of fungal diseases in barley crops. As I wrapped up my degree, 
+  I managed to land a job at VineView in Halifax as a remote sensing scientist. This work was similar to my masters research, in that I was able to work with multi and hyperspectral 
+  drone data for the purposes of disease detection in viticulture crops. I further built upon my experiences in remote sensing field work, drone and sensor operation, data acquisition, processing, 
+  scientific programming, and algorithm development. Eventually, I switched gigs and moved to the west coast to work with ASL Environmental Sciences in Victoria BC. In this job I have been able to broaden my remote
+  sensing application domain expertise, working in a variety of different sectors, such as geology, mining, and national defense. My favorite topics of late are cloud development, google earth engine, and pushing 
+  the boundaries of remote sensing with cutting-edge AI techniques. 
   <br><br>
   EDUCATION 
  
